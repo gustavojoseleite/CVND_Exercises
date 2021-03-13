@@ -36,10 +36,10 @@ def load_dataset(image_dir):
 
 
 
-## Standardize the input images
+# # Standardize the input images
 # Resize each image to the desired input size: 600x1100px (hxw).
 
-## Standardize the output
+# # Standardize the output
 # With each loaded image, we also specify the expected output.
 # For this, we use binary numerical values 0/1 = night/day.
 
